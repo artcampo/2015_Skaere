@@ -1,0 +1,670 @@
+printing dependencies for unit id: (0, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 0) -> (1, 0);  time 27 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+printing dependencies for unit id: (0, 1)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 1) -> (2, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (1, 0) -> (0, 1);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (0, 2)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 2) -> (3, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (2, 0) -> (0, 2);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (0, 3)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 3) -> (4, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (3, 0) -> (0, 3);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (0, 4)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 4) -> (5, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (4, 0) -> (0, 4);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (0, 5)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 5) -> (6, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (5, 0) -> (0, 5);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (0, 6)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 6) -> (7, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (6, 0) -> (0, 6);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (0, 7)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 7) -> (8, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (7, 0) -> (0, 7);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (0, 8)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 8) -> (9, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (8, 0) -> (0, 8);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (0, 9)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 9) -> (10, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (9, 0) -> (0, 9);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (0, 10)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 10) -> (11, 0);  time 8 -> 0
+  dep: (0, 10) -> (12, 0);  time 20 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (10, 0) -> (0, 10);  time 23 -> 0
+6;4;7;[0,4)
+printing dependencies for unit id: (0, 11)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 11) -> (13, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (12, 0) -> (0, 11);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+printing dependencies for unit id: (0, 12)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 12) -> (14, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (13, 0) -> (0, 12);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+printing dependencies for unit id: (0, 13)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 13) -> (15, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (14, 0) -> (0, 13);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+printing dependencies for unit id: (0, 14)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 14) -> (16, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (15, 0) -> (0, 14);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+printing dependencies for unit id: (0, 15)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 15) -> (17, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (16, 0) -> (0, 15);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+printing dependencies for unit id: (0, 16)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 16) -> (18, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (17, 0) -> (0, 16);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+printing dependencies for unit id: (0, 17)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 17) -> (19, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (18, 0) -> (0, 17);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+printing dependencies for unit id: (0, 18)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 18) -> (20, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (19, 0) -> (0, 18);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+printing dependencies for unit id: (0, 19)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 19) -> (21, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (20, 0) -> (0, 19);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+printing dependencies for unit id: (0, 20)
+ OUTGOING DEPENDENCIES:
+  dep: (0, 20) -> (22, 0);  time 8 -> 0
+ INCOMING DEPENDENCIES:
+  dep: (21, 0) -> (0, 20);  time 23 -> 0
+9;4;10;[0,4)
+printing dependencies for unit id: (0, 21)
+ OUTGOING DEPENDENCIES:
+ INCOMING DEPENDENCIES:
+  dep: (1, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[0,4)
+  dep: (2, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[4,8)
+  dep: (3, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[8,12)
+  dep: (4, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[12,16)
+  dep: (5, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[16,20)
+  dep: (6, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[20,24)
+  dep: (7, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[24,28)
+  dep: (8, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[28,32)
+  dep: (9, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[32,36)
+  dep: (10, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[36,40)
+  dep: (22, 0) -> (0, 21);  time 0 -> 135
+printing dependencies for unit id: (1, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (1, 0) -> (0, 1);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (1, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[0,4)
+  dep: (1, 0) -> (2, 0);  time 23 -> 0
+8;4;9;[0,4)
+  dep: (1, 0) -> (11, 0);  time 23 -> 0
+11;4;14;[0,4)
+  dep: (1, 0) -> (22, 0);  time 23 -> 0
+11;4;14;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 0) -> (1, 0);  time 27 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+printing dependencies for unit id: (2, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (2, 0) -> (0, 2);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (2, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[4,8)
+  dep: (2, 0) -> (3, 0);  time 23 -> 0
+8;4;9;[0,4)
+  dep: (2, 0) -> (11, 0);  time 23 -> 0
+12;4;15;[0,4)
+  dep: (2, 0) -> (22, 0);  time 23 -> 0
+12;4;15;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 1) -> (2, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (1, 0) -> (2, 0);  time 23 -> 0
+8;4;9;[0,4)
+printing dependencies for unit id: (3, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (3, 0) -> (0, 3);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (3, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[8,12)
+  dep: (3, 0) -> (4, 0);  time 23 -> 0
+8;4;9;[0,4)
+  dep: (3, 0) -> (11, 0);  time 23 -> 0
+12;4;16;[0,4)
+  dep: (3, 0) -> (22, 0);  time 23 -> 0
+12;4;16;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 2) -> (3, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (2, 0) -> (3, 0);  time 23 -> 0
+8;4;9;[0,4)
+printing dependencies for unit id: (4, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (4, 0) -> (0, 4);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (4, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[12,16)
+  dep: (4, 0) -> (5, 0);  time 23 -> 0
+8;4;9;[0,4)
+  dep: (4, 0) -> (11, 0);  time 23 -> 0
+12;4;17;[0,4)
+  dep: (4, 0) -> (22, 0);  time 23 -> 0
+12;4;17;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 3) -> (4, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (3, 0) -> (4, 0);  time 23 -> 0
+8;4;9;[0,4)
+printing dependencies for unit id: (5, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (5, 0) -> (0, 5);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (5, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[16,20)
+  dep: (5, 0) -> (6, 0);  time 23 -> 0
+8;4;9;[0,4)
+  dep: (5, 0) -> (11, 0);  time 23 -> 0
+12;4;18;[0,4)
+  dep: (5, 0) -> (22, 0);  time 23 -> 0
+12;4;18;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 4) -> (5, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (4, 0) -> (5, 0);  time 23 -> 0
+8;4;9;[0,4)
+printing dependencies for unit id: (6, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (6, 0) -> (0, 6);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (6, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[20,24)
+  dep: (6, 0) -> (7, 0);  time 23 -> 0
+8;4;9;[0,4)
+  dep: (6, 0) -> (11, 0);  time 23 -> 0
+12;4;19;[0,4)
+  dep: (6, 0) -> (22, 0);  time 23 -> 0
+12;4;19;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 5) -> (6, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (5, 0) -> (6, 0);  time 23 -> 0
+8;4;9;[0,4)
+printing dependencies for unit id: (7, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (7, 0) -> (0, 7);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (7, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[24,28)
+  dep: (7, 0) -> (8, 0);  time 23 -> 0
+8;4;9;[0,4)
+  dep: (7, 0) -> (11, 0);  time 23 -> 0
+12;4;20;[0,4)
+  dep: (7, 0) -> (22, 0);  time 23 -> 0
+12;4;20;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 6) -> (7, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (6, 0) -> (7, 0);  time 23 -> 0
+8;4;9;[0,4)
+printing dependencies for unit id: (8, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (8, 0) -> (0, 8);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (8, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[28,32)
+  dep: (8, 0) -> (9, 0);  time 23 -> 0
+8;4;9;[0,4)
+  dep: (8, 0) -> (11, 0);  time 23 -> 0
+12;4;21;[0,4)
+  dep: (8, 0) -> (22, 0);  time 23 -> 0
+12;4;21;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 7) -> (8, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (7, 0) -> (8, 0);  time 23 -> 0
+8;4;9;[0,4)
+printing dependencies for unit id: (9, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (9, 0) -> (0, 9);  time 23 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (9, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[32,36)
+  dep: (9, 0) -> (10, 0);  time 23 -> 0
+8;4;9;[0,4)
+  dep: (9, 0) -> (11, 0);  time 23 -> 0
+12;4;22;[0,4)
+  dep: (9, 0) -> (22, 0);  time 23 -> 0
+12;4;22;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 8) -> (9, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (8, 0) -> (9, 0);  time 23 -> 0
+8;4;9;[0,4)
+printing dependencies for unit id: (10, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (10, 0) -> (0, 10);  time 23 -> 0
+6;4;7;[0,4)
+  dep: (10, 0) -> (0, 21);  time 23 -> 0
+5;40;6;[36,40)
+  dep: (10, 0) -> (11, 0);  time 23 -> 0
+12;4;23;[0,4)
+  dep: (10, 0) -> (22, 0);  time 23 -> 0
+12;4;23;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 9) -> (10, 0);  time 15 -> 0
+6;4;7;[0,4)
+7;4;8;[0,4)
+  dep: (9, 0) -> (10, 0);  time 23 -> 0
+8;4;9;[0,4)
+printing dependencies for unit id: (11, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (11, 0) -> (12, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (13, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (14, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (15, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (16, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (17, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (18, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (19, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (20, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (21, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (11, 0) -> (22, 0);  time 0 -> 0
+12;4;24;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 10) -> (11, 0);  time 8 -> 0
+  dep: (1, 0) -> (11, 0);  time 23 -> 0
+11;4;14;[0,4)
+  dep: (2, 0) -> (11, 0);  time 23 -> 0
+12;4;15;[0,4)
+  dep: (3, 0) -> (11, 0);  time 23 -> 0
+12;4;16;[0,4)
+  dep: (4, 0) -> (11, 0);  time 23 -> 0
+12;4;17;[0,4)
+  dep: (5, 0) -> (11, 0);  time 23 -> 0
+12;4;18;[0,4)
+  dep: (6, 0) -> (11, 0);  time 23 -> 0
+12;4;19;[0,4)
+  dep: (7, 0) -> (11, 0);  time 23 -> 0
+12;4;20;[0,4)
+  dep: (8, 0) -> (11, 0);  time 23 -> 0
+12;4;21;[0,4)
+  dep: (9, 0) -> (11, 0);  time 23 -> 0
+12;4;22;[0,4)
+  dep: (10, 0) -> (11, 0);  time 23 -> 0
+12;4;23;[0,4)
+printing dependencies for unit id: (12, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (12, 0) -> (0, 11);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (12, 0) -> (13, 0);  time 23 -> 0
+8;4;12;[0,4)
+  dep: (12, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+12;4;25;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 10) -> (12, 0);  time 20 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (12, 0);  time 0 -> 0
+12;4;24;[0,4)
+printing dependencies for unit id: (13, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (13, 0) -> (0, 12);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (13, 0) -> (14, 0);  time 23 -> 0
+8;4;12;[0,4)
+  dep: (13, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;26;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 11) -> (13, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (13, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (12, 0) -> (13, 0);  time 23 -> 0
+8;4;12;[0,4)
+printing dependencies for unit id: (14, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (14, 0) -> (0, 13);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (14, 0) -> (15, 0);  time 23 -> 0
+8;4;12;[0,4)
+  dep: (14, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;27;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 12) -> (14, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (14, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (13, 0) -> (14, 0);  time 23 -> 0
+8;4;12;[0,4)
+printing dependencies for unit id: (15, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (15, 0) -> (0, 14);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (15, 0) -> (16, 0);  time 23 -> 0
+8;4;12;[0,4)
+  dep: (15, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;28;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 13) -> (15, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (15, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (14, 0) -> (15, 0);  time 23 -> 0
+8;4;12;[0,4)
+printing dependencies for unit id: (16, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (16, 0) -> (0, 15);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (16, 0) -> (17, 0);  time 23 -> 0
+8;4;12;[0,4)
+  dep: (16, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;29;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 14) -> (16, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (16, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (15, 0) -> (16, 0);  time 23 -> 0
+8;4;12;[0,4)
+printing dependencies for unit id: (17, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (17, 0) -> (0, 16);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (17, 0) -> (18, 0);  time 23 -> 0
+8;4;12;[0,4)
+  dep: (17, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;30;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 15) -> (17, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (17, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (16, 0) -> (17, 0);  time 23 -> 0
+8;4;12;[0,4)
+printing dependencies for unit id: (18, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (18, 0) -> (0, 17);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (18, 0) -> (19, 0);  time 23 -> 0
+8;4;12;[0,4)
+  dep: (18, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;31;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 16) -> (18, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (18, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (17, 0) -> (18, 0);  time 23 -> 0
+8;4;12;[0,4)
+printing dependencies for unit id: (19, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (19, 0) -> (0, 18);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (19, 0) -> (20, 0);  time 23 -> 0
+8;4;12;[0,4)
+  dep: (19, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;32;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 17) -> (19, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (19, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (18, 0) -> (19, 0);  time 23 -> 0
+8;4;12;[0,4)
+printing dependencies for unit id: (20, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (20, 0) -> (0, 19);  time 23 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (20, 0) -> (21, 0);  time 23 -> 0
+8;4;12;[0,4)
+  dep: (20, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;33;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 18) -> (20, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (20, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (19, 0) -> (20, 0);  time 23 -> 0
+8;4;12;[0,4)
+printing dependencies for unit id: (21, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (21, 0) -> (0, 20);  time 23 -> 0
+9;4;10;[0,4)
+  dep: (21, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;34;[0,4)
+ INCOMING DEPENDENCIES:
+  dep: (0, 19) -> (21, 0);  time 15 -> 0
+9;4;10;[0,4)
+10;4;11;[0,4)
+  dep: (11, 0) -> (21, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (20, 0) -> (21, 0);  time 23 -> 0
+8;4;12;[0,4)
+printing dependencies for unit id: (22, 0)
+ OUTGOING DEPENDENCIES:
+  dep: (22, 0) -> (0, 21);  time 0 -> 135
+ INCOMING DEPENDENCIES:
+  dep: (0, 20) -> (22, 0);  time 8 -> 0
+  dep: (1, 0) -> (22, 0);  time 23 -> 0
+11;4;14;[0,4)
+  dep: (2, 0) -> (22, 0);  time 23 -> 0
+12;4;15;[0,4)
+  dep: (3, 0) -> (22, 0);  time 23 -> 0
+12;4;16;[0,4)
+  dep: (4, 0) -> (22, 0);  time 23 -> 0
+12;4;17;[0,4)
+  dep: (5, 0) -> (22, 0);  time 23 -> 0
+12;4;18;[0,4)
+  dep: (6, 0) -> (22, 0);  time 23 -> 0
+12;4;19;[0,4)
+  dep: (7, 0) -> (22, 0);  time 23 -> 0
+12;4;20;[0,4)
+  dep: (8, 0) -> (22, 0);  time 23 -> 0
+12;4;21;[0,4)
+  dep: (9, 0) -> (22, 0);  time 23 -> 0
+12;4;22;[0,4)
+  dep: (10, 0) -> (22, 0);  time 23 -> 0
+12;4;23;[0,4)
+  dep: (11, 0) -> (22, 0);  time 0 -> 0
+12;4;24;[0,4)
+  dep: (12, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+12;4;25;[0,4)
+  dep: (13, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;26;[0,4)
+  dep: (14, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;27;[0,4)
+  dep: (15, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;28;[0,4)
+  dep: (16, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;29;[0,4)
+  dep: (17, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;30;[0,4)
+  dep: (18, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;31;[0,4)
+  dep: (19, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;32;[0,4)
+  dep: (20, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;33;[0,4)
+  dep: (21, 0) -> (22, 0);  time 23 -> 0
+12;4;24;[0,4)
+13;4;34;[0,4)

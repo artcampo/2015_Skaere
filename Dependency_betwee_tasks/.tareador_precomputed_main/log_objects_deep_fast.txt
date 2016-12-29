@@ -1,0 +1,14 @@
+<<<0;global;size;tareador-mcxx_main.cpp;17979>>>
+<<<1;stack;argv[0]>>>
+<<<2;stack;unknown_name>>>
+<<<3;stack;>>>
+<<<4;stack;A>>>
+<<<5;stack;res>>>
+<<<6;stack;omp_taskloop_0>>>
+<<<7;stack;omp_block_1>>>
+<<<8;stack;i>>>
+<<<9;stack;omp_taskloop_2>>>
+<<<10;stack;omp_block_3>>>
+<<<11;heap;fake_task_dependency;;L0:main;nonenone>>>
+<<<12;heap;fake_task_dependency;;L18010:main;nonenone>>>
+<<<13;heap;fake_task_dependency;;L18039:main;nonenone>>>

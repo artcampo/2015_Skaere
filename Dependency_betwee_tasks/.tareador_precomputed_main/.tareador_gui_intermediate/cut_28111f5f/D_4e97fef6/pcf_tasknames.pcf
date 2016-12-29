@@ -1,0 +1,8 @@
+EVENT_TYPE
+0     7003     running task
+VALUES
+0     task_end
+1     MAIN_TAREADOR
+2     function[main.cpp.11]
+3     wait
+4     function[main.cpp.14]

@@ -1,0 +1,430 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+>>>MAIN_TAREADOR;0
+12686;1;45XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ 6;4;7;loads;;stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];27
+437;2;2XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[0,4)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  11;4;14;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[0,4)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 11;4;14;loads;;stores;[0,4)
+ <<<function[main.cpp.11];50;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];65
+911;4;4XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[4,8)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  12;4;15;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[4,8)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 12;4;15;loads;;stores;[0,4)
+ <<<function[main.cpp.11];88;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];103
+1387;6;6XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[8,12)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  12;4;16;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[8,12)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 12;4;16;loads;;stores;[0,4)
+ <<<function[main.cpp.11];126;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];141
+1866;8;8XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[12,16)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  12;4;17;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[12,16)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 12;4;17;loads;;stores;[0,4)
+ <<<function[main.cpp.11];164;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];179
+2346;10;10XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[16,20)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  12;4;18;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[16,20)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 12;4;18;loads;;stores;[0,4)
+ <<<function[main.cpp.11];202;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];217
+2826;12;12XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[20,24)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  12;4;19;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[20,24)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 12;4;19;loads;;stores;[0,4)
+ <<<function[main.cpp.11];240;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];255
+3306;14;14XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[24,28)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  12;4;20;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[24,28)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 12;4;20;loads;;stores;[0,4)
+ <<<function[main.cpp.11];278;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];293
+3786;16;16XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[28,32)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  12;4;21;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[28,32)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 12;4;21;loads;;stores;[0,4)
+ <<<function[main.cpp.11];316;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];331
+4266;18;18XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[32,36)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  12;4;22;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[32,36)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 12;4;22;loads;;stores;[0,4)
+ <<<function[main.cpp.11];354;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ 7;4;8;loads;;stores;[0,4)
+ >>>function[main.cpp.11];369
+4746;20;20XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  5;40;6;loads;;stores;[36,40)
+  6;4;7;loads;[0,4);stores;
+  7;4;8;loads;[0,4);stores;
+  8;4;9;loads;;stores;[0,4)
+  12;4;23;loads;;stores;[0,4)
+ 5;40;6;loads;;stores;[36,40)
+ 6;4;7;loads;[0,4);stores;
+ 7;4;8;loads;[0,4);stores;
+ 8;4;9;loads;;stores;[0,4)
+ 12;4;23;loads;;stores;[0,4)
+ <<<function[main.cpp.11];392;children;[]
+ 6;4;7;loads;[0,4);stores;[0,4)
+ >>>wait;400
+5367;22;22XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  11;4;14;loads;[0,4);stores;
+  12;4;15;loads;[0,4);stores;
+  12;4;16;loads;[0,4);stores;
+  12;4;17;loads;[0,4);stores;
+  12;4;18;loads;[0,4);stores;
+  12;4;19;loads;[0,4);stores;
+  12;4;20;loads;[0,4);stores;
+  12;4;21;loads;[0,4);stores;
+  12;4;22;loads;[0,4);stores;
+  12;4;23;loads;[0,4);stores;
+  12;4;24;loads;;stores;[0,4)
+ 11;4;14;loads;[0,4);stores;
+ 12;4;15;loads;[0,4);stores;
+ 12;4;16;loads;[0,4);stores;
+ 12;4;17;loads;[0,4);stores;
+ 12;4;18;loads;[0,4);stores;
+ 12;4;19;loads;[0,4);stores;
+ 12;4;20;loads;[0,4);stores;
+ 12;4;21;loads;[0,4);stores;
+ 12;4;22;loads;[0,4);stores;
+ 12;4;23;loads;[0,4);stores;
+ 12;4;24;loads;;stores;[0,4)
+ <<<wait;400;children;[]
+ 9;4;10;loads;;stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];412
+6039;24;24XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[0,4)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  12;4;25;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[0,4)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 12;4;25;loads;;stores;[0,4)
+ <<<function[main.cpp.14];435;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];450
+6585;26;26XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[4,8)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  13;4;26;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[4,8)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 13;4;26;loads;;stores;[0,4)
+ <<<function[main.cpp.14];473;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];488
+7132;28;28XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[8,12)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  13;4;27;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[8,12)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 13;4;27;loads;;stores;[0,4)
+ <<<function[main.cpp.14];511;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];526
+7681;30;30XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[12,16)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  13;4;28;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[12,16)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 13;4;28;loads;;stores;[0,4)
+ <<<function[main.cpp.14];549;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];564
+8231;32;32XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[16,20)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  13;4;29;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[16,20)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 13;4;29;loads;;stores;[0,4)
+ <<<function[main.cpp.14];587;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];602
+8781;34;34XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[20,24)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  13;4;30;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[20,24)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 13;4;30;loads;;stores;[0,4)
+ <<<function[main.cpp.14];625;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];640
+9331;36;36XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[24,28)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  13;4;31;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[24,28)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 13;4;31;loads;;stores;[0,4)
+ <<<function[main.cpp.14];663;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];678
+9881;38;38XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[28,32)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  13;4;32;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[28,32)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 13;4;32;loads;;stores;[0,4)
+ <<<function[main.cpp.14];701;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];716
+10431;40;40XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[32,36)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  13;4;33;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[32,36)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 13;4;33;loads;;stores;[0,4)
+ <<<function[main.cpp.14];739;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ 10;4;11;loads;;stores;[0,4)
+ >>>function[main.cpp.14];754
+10981;42;42XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  4;40;5;loads;;stores;[36,40)
+  9;4;10;loads;[0,4);stores;
+  10;4;11;loads;[0,4);stores;
+  8;4;12;loads;;stores;[0,4)
+  12;4;24;loads;[0,4);stores;
+  13;4;34;loads;;stores;[0,4)
+ 4;40;5;loads;;stores;[36,40)
+ 9;4;10;loads;[0,4);stores;
+ 10;4;11;loads;[0,4);stores;
+ 8;4;12;loads;;stores;[0,4)
+ 12;4;24;loads;[0,4);stores;
+ 13;4;34;loads;;stores;[0,4)
+ <<<function[main.cpp.14];777;children;[]
+ 9;4;10;loads;[0,4);stores;[0,4)
+ >>>wait;785
+11966;44;44XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  11;4;14;loads;[0,4);stores;
+  12;4;15;loads;[0,4);stores;
+  12;4;16;loads;[0,4);stores;
+  12;4;17;loads;[0,4);stores;
+  12;4;18;loads;[0,4);stores;
+  12;4;19;loads;[0,4);stores;
+  12;4;20;loads;[0,4);stores;
+  12;4;21;loads;[0,4);stores;
+  12;4;22;loads;[0,4);stores;
+  12;4;23;loads;[0,4);stores;
+  12;4;24;loads;;stores;[0,4)
+  12;4;25;loads;[0,4);stores;
+  13;4;26;loads;[0,4);stores;
+  13;4;27;loads;[0,4);stores;
+  13;4;28;loads;[0,4);stores;
+  13;4;29;loads;[0,4);stores;
+  13;4;30;loads;[0,4);stores;
+  13;4;31;loads;[0,4);stores;
+  13;4;32;loads;[0,4);stores;
+  13;4;33;loads;[0,4);stores;
+  13;4;34;loads;[0,4);stores;
+  13;4;35;loads;;stores;[0,4)
+ 11;4;14;loads;[0,4);stores;
+ 12;4;15;loads;[0,4);stores;
+ 12;4;16;loads;[0,4);stores;
+ 12;4;17;loads;[0,4);stores;
+ 12;4;18;loads;[0,4);stores;
+ 12;4;19;loads;[0,4);stores;
+ 12;4;20;loads;[0,4);stores;
+ 12;4;21;loads;[0,4);stores;
+ 12;4;22;loads;[0,4);stores;
+ 12;4;23;loads;[0,4);stores;
+ 12;4;24;loads;;stores;[0,4)
+ 12;4;25;loads;[0,4);stores;
+ 13;4;26;loads;[0,4);stores;
+ 13;4;27;loads;[0,4);stores;
+ 13;4;28;loads;[0,4);stores;
+ 13;4;29;loads;[0,4);stores;
+ 13;4;30;loads;[0,4);stores;
+ 13;4;31;loads;[0,4);stores;
+ 13;4;32;loads;[0,4);stores;
+ 13;4;33;loads;[0,4);stores;
+ 13;4;34;loads;[0,4);stores;
+ 13;4;35;loads;;stores;[0,4)
+ <<<wait;785;children;[]
+ 5;40;6;loads;[0,40);stores;
+ 8;4;13;loads;;stores;[0,4)
+4;40;5;loads;;stores;[0,40)
+5;40;6;loads;;stores;[0,40)
+6;4;7;loads;;stores;[0,4)
+7;4;8;loads;;stores;[0,4)
+8;4;9;loads;;stores;[0,4)
+9;4;10;loads;;stores;[0,4)
+10;4;11;loads;;stores;[0,4)
+8;4;12;loads;;stores;[0,4)
+8;4;13;loads;;stores;[0,4)
+11;4;14;loads;;stores;[0,4)
+12;4;15;loads;;stores;[0,4)
+12;4;16;loads;;stores;[0,4)
+12;4;17;loads;;stores;[0,4)
+12;4;18;loads;;stores;[0,4)
+12;4;19;loads;;stores;[0,4)
+12;4;20;loads;;stores;[0,4)
+12;4;21;loads;;stores;[0,4)
+12;4;22;loads;;stores;[0,4)
+12;4;23;loads;;stores;[0,4)
+12;4;25;loads;;stores;[0,4)
+13;4;26;loads;;stores;[0,4)
+13;4;27;loads;;stores;[0,4)
+13;4;28;loads;;stores;[0,4)
+13;4;29;loads;;stores;[0,4)
+13;4;30;loads;;stores;[0,4)
+13;4;31;loads;;stores;[0,4)
+13;4;32;loads;;stores;[0,4)
+13;4;33;loads;;stores;[0,4)
+13;4;34;loads;;stores;[0,4)
+13;4;35;loads;;stores;[0,4)
+<<<MAIN_TAREADOR;920;children;[2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44]

@@ -1,0 +1,12 @@
+Task implicit_task
+Clausules:
+Sons:
+    Task function;task1;task1;main.cpp;9
+    Clausules:
+      Read?0 Write? 0 Type: FirstPrivate Name: a
+      Read?0 Write? 0 Type: Shared Name: size
+    Task function;task2;task2;main.cpp;14
+    Clausules:
+      Read?0 Write? 0 Type: FirstPrivate Name: b
+      Read?0 Write? 0 Type: FirstPrivate Name: a
+Type [[function;task1;task1;main.cpp;9]]

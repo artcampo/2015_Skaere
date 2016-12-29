@@ -1,0 +1,5 @@
+speedup: 1.000
+1 MAIN_TAREADOR 1 0.0
+2 function[main.cpp.11] 2 1.19 len(0.50) dep(0.19) conc(0.50)
+3 wait 3 0.64 len(0.00) dep(0.64) conc(0.00)
+4 function[main.cpp.14] 4 1.17 len(0.50) dep(0.17) conc(0.50)
